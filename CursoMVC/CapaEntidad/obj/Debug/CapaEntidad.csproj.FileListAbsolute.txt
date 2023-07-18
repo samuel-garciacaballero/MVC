@@ -1,0 +1,6 @@
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\samug\OneDrive\Desktop\ASP.NET\Curso Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
